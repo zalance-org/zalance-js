@@ -138,11 +138,11 @@ The SDK is MIT-licensed. The ingest server and dashboard are source-available at
 
 ## Contributing
 
-Issues and PRs welcome. The SDK lives in `packages/sdk-core/` in the [Zalance monorepo](https://github.com/zalance-org/zalance).
+Issues and PRs welcome. The SDK lives in `packages/core/` in the [zalance-js repo](https://github.com/zalance-org/zalance-js).
 
 ```bash
-git clone https://github.com/zalance-org/zalance.git
-cd zalance
+git clone https://github.com/zalance-org/zalance-js.git
+cd zalance-js
 pnpm install
 pnpm --filter @zalance/core dev
 ```
